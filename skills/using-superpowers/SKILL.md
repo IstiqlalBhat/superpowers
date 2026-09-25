@@ -7,13 +7,7 @@ description: Use when starting any conversation - establishes how to find and us
 If you were dispatched as a subagent to execute a specific task, ignore this skill.
 </SUBAGENT-STOP>
 
-<EXTREMELY-IMPORTANT>
-If you think there is even a 1% chance a skill might apply to what you are doing, you ABSOLUTELY MUST invoke the skill.
-
-IF A SKILL APPLIES TO YOUR TASK, YOU DO NOT HAVE A CHOICE. YOU MUST USE IT.
-
-This is not negotiable. You cannot rationalize your way out of this.
-</EXTREMELY-IMPORTANT>
+Skills are workflows your human partner chose to install. Before you start a task, check the skill list and invoke every skill whose description fits the task, plus any skill your partner names. A task that looks simple still gets its matching skill: the skill often changes what you would ask or do first.
 
 ## The Rule
 
